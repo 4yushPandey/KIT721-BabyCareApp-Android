@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">BabyCare</string>
+    <string name="baby_list">Baby List</string>
+    <string name="baby_name">Baby Name</string>
+    <string name="baby_birthdate">01-01-2023</string>
+    <string name="navFeeding">Feed</string>
+    <string name="navSleeping">Sleep</string>
+    <string name="navPooping">Poop</string>
+    <string name="navGrowth">Growth</string>
+    <string name="navSummary">Summary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="feedingFragment">Feed Fragment</string>
+    <string name="sleepingFragment">Sleep Fragment</string>
+    <string name="poopingFragment">Poop Fragment</string>
+    <string name="growthFragment">Growth Fragment</string>
+    <string name="summaryFragment">Summary Fragment</string>
+
+    <string name="feedingHistory">Feed History</string>
+    <string name="growthHistory">Growth History</string>
+    <string name="poopHistory">Poop History</string>
+    <string name="sleepHistory">Sleep History</string>
+
+    <string name="feedingDate">01-01-2023</string>
+
+    <string name="feedType">Milk</string>
+    <string name="growth">1 Ft. 2 in.</string>
+    <string name="DirtyNappy">Dirty Nappy</string>
+    <string name="NappyTime">NappyTime</string>
+    <string name="Sleeping">Sleeping Duration</string>
+    <string name="SleepTime">Sleep Time</string>
+    <string name="SleepStart">Sleep Start</string>
+    <string name="SleepEnd">Sleep End</string>
+    <string name="EditFeedingData">Edit Feed Data</string>
+    <string name="EditSleepData">Edit Sleep Data</string>
+    <string name="EditNappyData">Edit Nappy Data</string>
+    <string name="EditGrowthData">Edit Growth Data</string>
+    <string name="pickDate">Pick a Date</string>
+    <string name="selectTime">Select Time</string>
+    <string name="MilkType">Milk Type</string>
+    <string name="FeedSide">Feed Side</string>
+    <string name="bottle_milk">Bottle Milk</string>
+    <string name="mothers_milk">Mothers Milk</string>
+    <string name="left_side">Left Side</string>
+    <string name="right_side">Right Side</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="duration">Duration</string>
+    <string name="duration_in_minutes">Duration in minutes</string>
+    <string name="add_feed_data">Add Feed Data</string>
+    <string name="quantity_in_ml">Quantity in ml</string>
+    <string name="quantity">Quantity</string>
+    <string name="height_in_ft_and_in">Height in ft and in</string>
+    <string name="add_sleep_data">Add Sleep Data</string>
+    <string name="sleep_start_time">Sleep Start Time</string>
+    <string name="all_nappy_data">All Nappy Data</string>
+    <string name="poop_type">Poop Type</string>
+    <string name="wet">Wet</string>
+    <string name="wet_dirty">Wet + Dirty</string>
+    <string name="poop_image">Poop Image</string>
+    <string name="camera">Camera</string>
+    <string name="add_nappy_data">Add Nappy_data</string>
+    <string name="summary_of_daily_activity">Summary of Daily Activity</string>
+    <string name="dailt_feeds">Dailt Feeds</string>
+    <string name="daily_feeds">Daily Feeds</string>
+    <string name="daily_nappy_change_time">Daily Nappy Change Time</string>
+    <string name="daily_sleep_times">Daily Sleep Times</string>
+    <string name="growth_track">Growth Track</string>
+    <string name="last_measured_height">Last Measured Height</string>
+    <string name="last_change_time">Last Change Time</string>
+    <string name="last_feed">Last feed</string>
+    <string name="last_sleep_time">Last Sleep Time</string>
+    <string name="poop_time">Poop time</string>
+    <string name="height">Height</string>
+    <string name="delete">Delete</string>
+    <string name="edit_poop_data">Edit Poop Data</string>
+
+</resources>

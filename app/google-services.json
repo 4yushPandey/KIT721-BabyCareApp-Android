@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "939119036503",
+    "project_id": "kit721-7ef30",
+    "storage_bucket": "kit721-7ef30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939119036503:android:0216b00ab60fd2f2b8bb12",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit721.apandey3.BabyCare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939119036503-g6o53i97fohpiotn2osi2t7okkt9odei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRTUPJcoth_MFAPuf64s6dei6IbGzY-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939119036503-g6o53i97fohpiotn2osi2t7okkt9odei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939119036503:android:a2a9de20c89b041db8bb12",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit721.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939119036503-g6o53i97fohpiotn2osi2t7okkt9odei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRTUPJcoth_MFAPuf64s6dei6IbGzY-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939119036503-g6o53i97fohpiotn2osi2t7okkt9odei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

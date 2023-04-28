@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/feeding"
+            android:icon="@drawable/eating"
+            android:title="@string/navFeeding"  />
+        <item
+            android:id="@+id/pooping"
+            android:icon="@drawable/poop"
+            android:title="@string/navPooping" />
+        <item
+            android:id="@+id/sleeping"
+            android:icon="@drawable/sleeping"
+            android:title="@string/navSleeping" />
+        <item
+            android:id="@+id/growth"
+            android:icon="@drawable/growth"
+            android:title="@string/navGrowth" />
+        <item
+            android:id="@+id/summary"
+            android:icon="@drawable/summary"
+            android:title="@string/navSummary" />
+</menu>
